@@ -5,8 +5,6 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
-        <field_message/>
-        <field_message_type>none</field_message_type>
         <mandatory>true</mandatory>
         <order>102</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
@@ -23,11 +21,8 @@
         <sys_updated_on>2024-10-23 07:40:16</sys_updated_on>
         <table/>
         <ui_policy display_value="Request Type is Create">351c9d67c31d12103ac9f0477d013179</ui_policy>
-        <value/>
-        <value_action>ignore</value_action>
         <variable>planting_method</variable>
         <variable_set/>
         <visible>true</visible>
     </catalog_ui_policy_action>
-    <sys_translated_text action="delete_multiple" query="documentkey=1f6cd5a7c31d12103ac9f0477d01311b"/>
 </record_update>
