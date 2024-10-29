@@ -5,8 +5,6 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
-        <field_message/>
-        <field_message_type>none</field_message_type>
         <mandatory>ignore</mandatory>
         <order>100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
@@ -23,11 +21,8 @@
         <sys_updated_on>2024-10-23 08:01:03</sys_updated_on>
         <table/>
         <ui_policy display_value="Plant record selcted">dffdd12bc31d12103ac9f0477d0131b1</ui_policy>
-        <value/>
-        <value_action>ignore</value_action>
         <variable>update_existing_plant</variable>
         <variable_set/>
         <visible>ignore</visible>
     </catalog_ui_policy_action>
-    <sys_translated_text action="delete_multiple" query="documentkey=7f3121afc31d12103ac9f0477d013188"/>
 </record_update>

@@ -5,8 +5,6 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
-        <field_message/>
-        <field_message_type>none</field_message_type>
         <mandatory>true</mandatory>
         <order>104</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
@@ -23,11 +21,8 @@
         <sys_updated_on>2024-10-23 07:41:28</sys_updated_on>
         <table/>
         <ui_policy display_value="Request Type is Create">351c9d67c31d12103ac9f0477d013179</ui_policy>
-        <value/>
-        <value_action>ignore</value_action>
         <variable>pottery_type</variable>
         <variable_set/>
         <visible>true</visible>
     </catalog_ui_policy_action>
-    <sys_translated_text action="delete_multiple" query="documentkey=b4bc9da7c31d12103ac9f0477d01311a"/>
 </record_update>
